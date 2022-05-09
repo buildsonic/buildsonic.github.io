@@ -5,7 +5,7 @@
 layout: default
 ---
 
-### Code
+### Code and Data
 <ul>
   <li><a href="files/code.zip" download>Source Code</a></li>
 </ul>
